@@ -6,6 +6,6 @@
 - 👩‍💻 DataBases with: SQL, NoSQL, Python, MongoDB...
 - 🖥️ Data Processing with: NumPy, Pandas, APIRest, CSV
 - English B2
-- 
+
 
 
